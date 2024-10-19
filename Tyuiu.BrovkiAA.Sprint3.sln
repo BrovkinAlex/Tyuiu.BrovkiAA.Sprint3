@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BrovkinAA.Sprint3.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{7238B4EC-C3BA-4BF4-9D16-33EFB1C75680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{7238B4EC-C3BA-4BF4-9D16-33EFB1C75680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7238B4EC-C3BA-4BF4-9D16-33EFB1C75680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7238B4EC-C3BA-4BF4-9D16-33EFB1C75680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{DC6C2194-2D2F-410C-BD5E-9F1FB18BDB27} = {637EEDEA-6EB3-463E-9A75-509D57FC3181}
 		{632301CC-1F01-45AE-9986-6083AAA24B5C} = {637EEDEA-6EB3-463E-9A75-509D57FC3181}
 		{7238B4EC-C3BA-4BF4-9D16-33EFB1C75680} = {D71ACBD5-B367-469C-919A-8A064FCB9386}
+		{BAD81B03-C3A8-4517-BBBB-F91819BB3BF2} = {D71ACBD5-B367-469C-919A-8A064FCB9386}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6A086E8-FFBE-4783-945B-10C48EDB483D}
