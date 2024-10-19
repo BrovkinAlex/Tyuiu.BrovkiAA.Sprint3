@@ -1,5 +1,5 @@
-using Tyuiu.BrovkinAA.Sprint3.Task5.V17.Lib;
-namespace Tyuiu.BrovkinAA.Sprint3.Task5.V17.Test
+using Tyuiu.BrovkinAA.Sprint3.Task6.V2.Lib;
+namespace Tyuiu.BrovkinAA.Sprint3.Task6.V2.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -8,8 +8,8 @@ namespace Tyuiu.BrovkinAA.Sprint3.Task5.V17.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double res = ds.GetSumSumSeries(2, 1, 1, 3, 12);
-            double wait = 143.624;
+            int res = ds.GetSumTheDivisors(12, 18);
+            int wait = 29;
 
             Assert.AreEqual(wait, res);
         }
